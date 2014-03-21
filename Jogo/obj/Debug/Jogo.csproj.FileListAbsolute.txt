@@ -16,3 +16,21 @@ c:\users\lucas\documents\visual studio 2013\Projects\Jogo\Jogo\bin\System.Web.Mv
 c:\users\lucas\documents\visual studio 2013\Projects\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
 c:\users\lucas\documents\visual studio 2013\Projects\Jogo\Jogo\obj\Debug\Jogo.dll
 c:\users\lucas\documents\visual studio 2013\Projects\Jogo\Jogo\obj\Debug\Jogo.pdb
+C:\Users\NOTEBOOK\Downloads\TilesBlock-master\Jogo\bin\Jogo.dll.config
+C:\Users\NOTEBOOK\Downloads\TilesBlock-master\Jogo\bin\Jogo.dll
+C:\Users\NOTEBOOK\Downloads\TilesBlock-master\Jogo\bin\Jogo.pdb
+C:\Users\NOTEBOOK\Downloads\TilesBlock-master\Jogo\bin\System.Web.Helpers.dll
+C:\Users\NOTEBOOK\Downloads\TilesBlock-master\Jogo\bin\System.Web.Mvc.dll
+C:\Users\NOTEBOOK\Downloads\TilesBlock-master\Jogo\bin\System.Web.Razor.dll
+C:\Users\NOTEBOOK\Downloads\TilesBlock-master\Jogo\bin\System.Web.Webpages.Deployment.dll
+C:\Users\NOTEBOOK\Downloads\TilesBlock-master\Jogo\bin\System.Web.Webpages.dll
+C:\Users\NOTEBOOK\Downloads\TilesBlock-master\Jogo\bin\System.Web.Webpages.Razor.dll
+C:\Users\NOTEBOOK\Downloads\TilesBlock-master\Jogo\bin\System.Web.Razor.xml
+C:\Users\NOTEBOOK\Downloads\TilesBlock-master\Jogo\bin\System.Web.Webpages.xml
+C:\Users\NOTEBOOK\Downloads\TilesBlock-master\Jogo\bin\System.Web.Webpages.Deployment.xml
+C:\Users\NOTEBOOK\Downloads\TilesBlock-master\Jogo\bin\System.Web.Webpages.Razor.xml
+C:\Users\NOTEBOOK\Downloads\TilesBlock-master\Jogo\bin\System.Web.Helpers.xml
+C:\Users\NOTEBOOK\Downloads\TilesBlock-master\Jogo\bin\System.Web.Mvc.xml
+C:\Users\NOTEBOOK\Downloads\TilesBlock-master\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\Downloads\TilesBlock-master\Jogo\obj\Debug\Jogo.dll
+C:\Users\NOTEBOOK\Downloads\TilesBlock-master\Jogo\obj\Debug\Jogo.pdb

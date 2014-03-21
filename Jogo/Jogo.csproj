@@ -150,7 +150,36 @@
     <Content Include="Content\metro-bootstrap\labels.less" />
     <Content Include="Content\metro-bootstrap\checkbox.less" />
     <Content Include="Content\metro-bootstrap\alerts.less" />
+    <Content Include="jogo\style\fonts\ClearSans-Bold-webfont.eot" />
+    <Content Include="jogo\style\fonts\ClearSans-Bold-webfont.woff" />
+    <Content Include="jogo\style\fonts\ClearSans-Bold-webfontd41dd41d.eot" />
+    <Content Include="jogo\style\fonts\ClearSans-Light-webfont.eot" />
+    <Content Include="jogo\style\fonts\ClearSans-Light-webfont.woff" />
+    <Content Include="jogo\style\fonts\ClearSans-Light-webfontd41dd41d.eot" />
+    <Content Include="jogo\style\fonts\ClearSans-Regular-webfont.eot" />
+    <Content Include="jogo\style\fonts\ClearSans-Regular-webfont.woff" />
+    <Content Include="jogo\style\fonts\ClearSans-Regular-webfontd41dd41d.eot" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="jogo\favicon.ico" />
+    <Content Include="jogo\index.html" />
+    <Content Include="Scripts\animframe_polyfill.js" />
+    <Content Include="Scripts\application.js" />
+    <Content Include="Scripts\game_managerD.js" />
+    <Content Include="Scripts\game_managerM.js" />
+    <Content Include="Scripts\game_manager.js" />
+    <Content Include="Scripts\grid.js" />
+    <Content Include="Scripts\html_actuator.js" />
+    <Content Include="Scripts\keyboard_input_manager.js" />
+    <Content Include="Scripts\local_score_manager.js" />
+    <Content Include="Scripts\tile.js" />
+    <Content Include="jogo\meta\apple-touch-icon.png" />
+    <Content Include="jogo\meta\og_image.png" />
+    <Content Include="jogo\style\fonts\clear-sans.css" />
+    <Content Include="jogo\style\fonts\ClearSans-Bold-webfont.svg" />
+    <Content Include="jogo\style\fonts\ClearSans-Light-webfont.svg" />
+    <Content Include="jogo\style\fonts\ClearSans-Regular-webfont.svg" />
+    <Content Include="Content\main.css" />
+    <Content Include="jogo\www.google-analytics.com\analytics.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
@@ -179,6 +208,9 @@
   <ItemGroup>
     <Content Include="Views\web.config" />
     <Content Include="packages.config" />
+    <Content Include="Views\Home\Facil.cshtml" />
+    <Content Include="Views\Home\Medio.cshtml" />
+    <Content Include="Views\Home\Dificil.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

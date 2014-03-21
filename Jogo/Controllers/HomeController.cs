@@ -35,5 +35,17 @@ namespace Jogo.Controllers
         {
             return View();
         }
+        public ActionResult Facil()
+        {
+            return View();
+        }
+        public ActionResult Medio()
+        {
+            return View();
+        }
+        public ActionResult Dificil()
+        {
+            return View();
+        }
 	}
 }

@@ -1,6 +1,6 @@
 ﻿.posicoes {
     margin-top: 220px;
-    padding-left: 405px;
+    padding-left: 255px;
     padding-bottom: 300px;
 }
 .posicaoFormRanking {
@@ -9,4 +9,19 @@
 }
 .tituloForm {
     padding-left: 475px;
+}
+
+ a:link {/* normal, não visitado */ 
+     text-decoration: none;
+     color: white;
+ }
+a:visited {/* visitado */ 
+    text-decoration: none;
+    color: white;
+}
+a:hover {/*enquanto o mouse está sobre link */ 
+    text-decoration: none;
+}
+a:active {/*enquanto o link está sendo clicado */ 
+    text-decoration: none;
 }
