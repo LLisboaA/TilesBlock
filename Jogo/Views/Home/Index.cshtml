@@ -1,0 +1,30 @@
+﻿@model Jogo.Models.Usuario
+<div class="container posicaoFormRanking">
+    <h1 class="tituloForm">TILES BLOCK</h1>
+    <div class="row">
+        <div class="col-md-4 col-md-offset-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Exiba seu nome no Ranking</h3>
+                </div>
+                <div class="panel-body">
+                    <form role="form" method="POST" action="">
+                        <fieldset>
+                            <div class="form-group">
+                                <input class="form-control" placeholder="Nome" name="Nome" id="Nome" type="text">
+
+                            </div>
+                            <div class="form-group">
+                                <input class="form-control" placeholder="Email" name="Email" id="Email" type="email" value="">
+
+                            </div>
+                            <input class="btn btn-lg btn-success btn-block" type="submit" value="Jogar">
+                            <h4 class="text-center">Ou</h4>
+                            <input class="btn btn-lg btn-success btn-block" type="submit" value="Jogar Offline">
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
